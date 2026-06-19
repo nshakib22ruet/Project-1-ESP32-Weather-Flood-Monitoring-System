@@ -25,13 +25,13 @@ An intelligent ESP32-based IoT monitoring system that collects real-time tempera
 Project Resources
 
 📄 **Project Report (PDF):**  
-https://github.com/nshakib22ruet/Project-1-ESP32-Weather-Flood-Monitoring-System  
+https://github.com/nshakib22ruet/Project-1-ESP32-Weather-Flood-Monitoring-System/blob/main/ESP32_Weather_Flood_Wiring.pdf
 
 💻 **Source Code:**  
 https://github.com/nshakib22ruet/Project-1-ESP32-Weather-Flood-Monitoring-System/blob/main/Project_Weather_monitoring.ino  
 
 📊 **Web Dashboard (HTML):**  
-https://github.com/nshakib22ruet/Project-1-ESP32-Weather-Flood-Monitoring-System/blob/main/Flood_fixed.html  
+https://github.com/nshakib22ruet/Project-1-ESP32-Weather-Flood-Monitoring-System/blob/main/Flood_fixed%20.html
 
 🎥**For Vedio:**
 https://www.youtube.com/watch?v=4vh1hOY8FoM
