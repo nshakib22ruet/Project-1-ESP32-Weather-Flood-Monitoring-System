@@ -17,12 +17,23 @@ An intelligent ESP32-based IoT monitoring system that collects real-time tempera
 
 * ESP32
 * Arduino IDE
-
-##For Vedio
-https://www.youtube.com/watch?v=4vh1hOY8FoM
-* Quadratic Regression (Machine Learning)
-* HTML, CSS, JavaScript
-* Chart.js
+* * Quadratic Regression (Machine Learning)
+* HTML, CSS
 * SH1106 OLED Display
 * Ultrasonic & Environmental Sensors
+
+Project Resources
+
+📄 **Project Report (PDF):**  
+https://github.com/nshakib22ruet/Project-1-ESP32-Weather-Flood-Monitoring-System  
+
+💻 **Source Code:**  
+https://github.com/nshakib22ruet/Project-1-ESP32-Weather-Flood-Monitoring-System/blob/main/Project_Weather_monitoring.ino  
+
+📊 **Web Dashboard (HTML):**  
+https://github.com/nshakib22ruet/Project-1-ESP32-Weather-Flood-Monitoring-System/blob/main/Flood_fixed.html  
+
+🎥##For Vedio
+https://www.youtube.com/watch?v=4vh1hOY8FoM
+
 
