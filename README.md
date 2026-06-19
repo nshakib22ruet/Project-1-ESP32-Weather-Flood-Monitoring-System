@@ -35,5 +35,7 @@ https://github.com/nshakib22ruet/Project-1-ESP32-Weather-Flood-Monitoring-System
 
 🎥**For Vedio:**
 https://www.youtube.com/watch?v=4vh1hOY8FoM
+Output Vedio:
+https://www.youtube.com/shorts/5uXgQtWBvHU
 
 
